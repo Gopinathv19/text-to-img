@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer putyourauthorizationcode"}
 
 st.title("Text to Image Generator")
 
